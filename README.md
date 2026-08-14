@@ -6,7 +6,7 @@ This project is a simple **personal portfolio website** developed using **HTML5 
 
 The portfolio currently contains two main pages: a **Home page** and a **Contact page**. The Home page provides an introduction, while the Contact page allows visitors to find my contact details or get in touch with me.
 
-🔗 **Live Website:** <link>
+🔗 **Live Website:** https://mangayarkarasipalraj.github.io/simple-portfolio-website/**
 
 ## 🌐 Pages Included
 
@@ -38,7 +38,7 @@ portfolio/
 
 ## 🔗 Live Demo
 
-👉 **[Click here to visit my portfolio](YOUR-LINK-HERE)**
+👉 **[Click here to visit my portfolio](https://mangayarkarasipalraj.github.io/simple-portfolio-website/)**
 
 ## 👩‍💻 About the Project
 
